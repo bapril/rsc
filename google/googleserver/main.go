@@ -15,8 +15,8 @@ import (
 	"strings"
 	"syscall"
 
-	"code.google.com/p/rsc/google"
-	"code.google.com/p/rsc/xmpp"
+	"github.com/bapril/rsc/google"
+	"github.com/bapril/rsc/xmpp"
 )
 
 func main() {

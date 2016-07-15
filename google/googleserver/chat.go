@@ -10,8 +10,8 @@ package main
 import (
 	"fmt"
 
-	"code.google.com/p/rsc/google"
-	"code.google.com/p/rsc/xmpp"
+	"github.com/bapril/rsc/google"
+	"github.com/bapril/rsc/xmpp"
 )
 
 type chatClient struct {

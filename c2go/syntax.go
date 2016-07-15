@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"code.google.com/p/rsc/c2go"
-	"code.google.com/p/rsc/cc"
+	"github.com/bapril/rsc/c2go"
+	"github.com/bapril/rsc/cc"
 )
 
 var goKeyword = map[string]string{

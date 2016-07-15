@@ -1,2 +1,1 @@
-This is an archive of code.google.com/p/rsc, so that the code is available using Git.
-It is NOT expected that code here can be used directly. Please don't.
+This was an archive of code.google.com/p/rsc, It's now from github.com/bapril/rsc so that the code is available using Git.

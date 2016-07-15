@@ -16,8 +16,8 @@ import (
 	"syscall"
 	"time"
 
-	"code.google.com/p/rsc/google"
-	"code.google.com/p/rsc/imap"
+	"github.com/bapril/rsc/google"
+	"github.com/bapril/rsc/imap"
 )
 
 var cmdtab = []struct {
